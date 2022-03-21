@@ -1,39 +1,27 @@
-# Blender Render in google colab
+# Render Blender in google colab
+
+
+* [google colab](https://colab.research.google.com)
+* [google drive](https://drive.google.com/)
+
+
 
 #### 介绍
 简单的方式借用（嫖）google colab 的免费gpu来渲染自己的blender文件！
 从此解放自己的gpu！
-低配福利！
 
-#### 软件架构
-软件架构说明
+#### 创库原由
+本人是blender兴趣爱好者，苦于电脑配置低渲染慢而烦恼，在网上冲浪看到了YouTube上有许多blender云渲染的方法，例如：[Micro Singularity](https://youtu.be/A8FiCPUEv9Q)的教程，本方案就是在此基础上建立的。除了这个方法国内也有人在b站等平台发布过教程，也可以选择其他方案，适合自己的方案才是最好的。
 
+#### 方案原理
+借用google的[google colab](https://colab.research.google.com)来渲染。
 
-#### 安装教程
+#### colab介绍
+什么是 Colab？
+借助 Colaboratory（简称 Colab），您可在浏览器中编写和执行 Python 代码，并且：
+* 无需任何配置
+* 免费使用 GPU
+* 轻松共享
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+##### 使用前准备
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
