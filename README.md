@@ -1,11 +1,10 @@
 # Render Blender in google colab
 
 
-### 注：方案需全程在科学上网的环境下进行！
+### 注：方案需全程在kxsw的环境下进行！
 
 * [google colab](https://colab.research.google.com)
 * [google drive](https://drive.google.com/)
-
 
 
 #### 介绍
