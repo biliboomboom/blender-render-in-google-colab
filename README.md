@@ -1,11 +1,11 @@
 # Render Blender in google colab
 
-
-### 注：方案需全程在kxsw的环境下进行！
-
 * [google colab](https://colab.research.google.com)
 * [google drive](https://drive.google.com/)
 
+### 注：方案需全程在fanqiang的环境下进行！
+### 先说缺点：这里的白嫖并不是无穷无尽的，而是看colab的空闲后端gpu情况，具体可查看colab官方文档，要是用能力可以去colab开pro，能得到一个更强大的云端训练环境。（一般都能用）
+* [google colab官方说明文档](https://research.google.com/colaboratory/faq.html)
 
 #### 介绍
 简单的方式借用（嫖）google colab 的免费gpu来渲染自己的blender文件！
@@ -28,7 +28,13 @@
 #### 使用前准备环境
 * 1，谷歌云盘
 * 2，浏览器
+* 3，你的打包好的blender工程文件
+* 4，渲染调用脚本
 
 #### 使用步骤
+1. 打包blender工程文件。
+![打包工程文件](readme.assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-04-04%20114311.png)
+
+2. 浏览器(我用的是edge，理论上chrome等内核是Chromium的都可运行)登录自己的谷歌云盘并上传渲染脚本。
 
 
