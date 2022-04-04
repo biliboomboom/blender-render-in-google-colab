@@ -2,7 +2,8 @@
 
 Render Blender in google colab.ipynb
 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
-https://www.aliyundrive.com/s/3douZqNkK14
+阿里云→https://www.aliyundrive.com/s/3douZqNkK14
+蓝奏云→https://wws.lanzouw.com/ii8fx02mcsej password:boom
 
 * [google colab](https://colab.research.google.com)
 * [google drive](https://drive.google.com/)
