@@ -7,7 +7,7 @@ https://www.aliyundrive.com/s/3douZqNkK14
 * [google colab](https://colab.research.google.com)
 * [google drive](https://drive.google.com/)
 
-### 注：方案需全程在!的✈fanqiang的环境下进行！
+### 注：方案需全程在✈fanqiang的环境下进行！
 ### 先说缺点：这里的白嫖并不是无穷无尽的，而是看colab的空闲后端gpu情况，具体可查看colab官方文档，要是用能力可以去colab开pro，能得到一个更强大的云端训练环境。（一般都能用）
 * [google colab官方说明文档](https://research.google.com/colaboratory/faq.html)
 
