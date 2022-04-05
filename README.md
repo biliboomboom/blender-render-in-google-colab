@@ -3,7 +3,7 @@
 Render Blender in google colab.ipynb
 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
-[Render Blender in google colab.ipynb](https://drive.google.com/file/d/1dT-o3pbxhH8aWE8TuOINcsq53hbMwWFy/view?usp=sharing)
+[Render Blender in google colab.ipynb](https://drive.google.com/file/d/1dG6wyL4M2aWhDnX-8qzvWucAkj8WBQNZ/view?usp=sharing)
 
 * [google colab](https://colab.research.google.com)
 * [google drive](https://drive.google.com/)
