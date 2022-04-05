@@ -44,7 +44,7 @@ Render Blender in google colab.ipynb
 ***
 ![打包工程文件](readme.assets/1.png)
 ***
-##### 2. 浏览器(我用的是edge，理论上chrome等都可运行)**登录自己的谷歌云盘并用Google colab打开脚本。
+##### 2. 浏览器(我用的是edge，理论上chrome等都可运行)登录自己的谷歌云盘并用Google colab打开脚本。
 
 ![](/readme.assets/25.png)
 ***
