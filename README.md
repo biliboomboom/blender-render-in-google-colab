@@ -91,7 +91,11 @@ Render Blender in google colab.ipynb
 
 ![](/readme.assets/15.png)
 
-我这里上传得blender工程文件名叫 **myhouse.blend** -------记住自己得blender工程文件名（带后缀）
+我这里上传得blender工程文件名叫 **myhouse.blend** -------记住自己的blender工程文件名（带后缀）。
+
+**注：blender工程文件如果带有特殊符号如："空格 . _ "等特殊符号就得在工程文件名外加上双引号**``"####.blend"``，否则无法进行渲染。
+
+![](/readme.assets/28.png)
 
 执行第五代码框``#5``，看到让我们输入自己刚刚上传得blender工程文件名，我这里输入**myhouse.blend**，输入后记得**回车**！！！！！！！
 
