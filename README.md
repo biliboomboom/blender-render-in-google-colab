@@ -8,6 +8,8 @@ Render Blender in google colab.ipynb
 
 [Render Blender in google colab.ipynb](https://drive.google.com/file/d/1sgJP_0hn773xsi3O0t8u6Rwl13q95NOu/view?usp=sharing)
 
+ [b站视频教程](https://www.bilibili.com/video/BV1BF41137rU?share_source=copy_web)
+
 * [google colab](https://colab.research.google.com)
 * [google drive](https://drive.google.com/)
 
