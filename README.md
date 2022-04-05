@@ -1,5 +1,7 @@
 # Render Blender in google colab
 
+![](https://img.shields.io/badge/%E6%B5%8B%E8%AF%95-%E7%BE%8E%E5%8C%96-brightgreen)
+
 Render Blender in google colab.ipynb
 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
