@@ -2,8 +2,7 @@
 
 Render Blender in google colab.ipynb
 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
-阿里云→https://www.aliyundrive.com/s/3douZqNkK14
-蓝奏云→https://wws.lanzouw.com/ii8fx02mcsej password:boom
+[Render Blender in google colab.ipynb](https://drive.google.com/file/d/1dT-o3pbxhH8aWE8TuOINcsq53hbMwWFy/view?usp=sharing)
 
 * [google colab](https://colab.research.google.com)
 * [google drive](https://drive.google.com/)
@@ -41,13 +40,13 @@ Render Blender in google colab.ipynb
 ***
 ![打包工程文件](readme.assets/1.png)
 ***
-##### 2. 浏览器(我用的是edge，理论上chrome等都可运行)**登录自己的谷歌云盘**并**上传渲染脚本**并**用Google colab打开脚本**。
+##### 2. 浏览器(我用的是edge，理论上chrome等都可运行)**登录自己的谷歌云盘并用Google colab打开脚本。
 
-![上传脚本](/readme.assets/2.png)
+![]()
 ***
-![](/readme.assets/3.png)
+![]()
 ***
-![](/readme.assets/4.png)
+![]()
 ***
 ![](/readme.assets/5.png)
 ***
