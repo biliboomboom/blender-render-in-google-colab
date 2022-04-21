@@ -13,8 +13,12 @@ Render Blender in google colab.ipynb
 * [google colab](https://colab.research.google.com)
 * [google drive](https://drive.google.com/)
 
-## 更新：更新了k80的渲染方法 [跳转](#更新)到更新
+---
+## 更新：更新了k80的渲染方法 2022-4-14
+## 更新：更新blender应用程序 2022-4-21
 
+## [跳转](#更新)到更新
+---
 ## 声明
 
 ### 先说明方案无法百分百第一时间进行渲染 要看Google colab有没有第一时间分配给你 tesla t4 后端 ，``解决方法``：1.换个时间再尝试，避开高峰期。2.开colab pro。
