@@ -144,7 +144,7 @@ Render Blender in google colab.ipynb
 ***
 ## 更新
 
-### 使用k80后端渲染的方法
+### 使用k80后端渲染的方法 ```updata 2022-4-14```
 
 #### 
 很简单只需要解除与添加渲染#6#7的注释。
@@ -154,6 +154,20 @@ Render Blender in google colab.ipynb
 
 ![](/readme.assets/30.png)
 ***
+
+### 更新blender应用程序 ```updata 2022-4-21```
+
+#### 1.先搭建好环境。
+
+* 1.获取后端GPU
+* 2.连接到自己的Google云盘
+
+#### 2.修改 ```#3```的代码
+* 1.用```#```符号注释！mkdir。
+* 2.去blender官网找到最新的blender—Linux 压缩包下载地址。
+* 3.运行```#3```
+
+![](/readme.assets/31.png)
 
 #### 5.Q&A
 
