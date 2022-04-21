@@ -165,6 +165,7 @@ Render Blender in google colab.ipynb
 #### 2.修改 ```#3```的代码
 * 1.用```#```符号注释！mkdir。
 * 2.去blender官网找到最新的blender—Linux 压缩包下载地址。
+* 3.去Google云盘删除blender的应用程序文件夹。
 * 3.运行```#3```
 
 ![](/readme.assets/31.png)
