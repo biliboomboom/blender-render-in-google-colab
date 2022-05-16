@@ -27,7 +27,7 @@ Render Blender in google colab.ipynb
 
 ### 2.目前不支持Eevee渲染器
 
-### 注：方案需全程在✈fanqiang的环境下进行！
+### 注：方案需全程在✈的环境下进行！
 
 ### 先说缺点：
 #### 1.这里的白嫖并不是无穷无尽的，而是看colab的空闲后端gpu情况，具体可查看colab官方文档，要是有能力可以去colab开colab pro，能得到一个更强大的云端训练环境。（一般都能用）
