@@ -14,6 +14,7 @@ Render Blender in google colab.ipynb
 * [google drive](https://drive.google.com/)
 
 ---
+## 更新：更新了blender应用程序无法正常解压的问题 2022-7-14
 ## ⚠更新：更新了无法在t4环境下渲染blender 2022-5-31
 ## 更新：更新blender应用程序 2022-4-21
 ## 更新：更新了k80的渲染方法 2022-4-14
@@ -185,6 +186,13 @@ Render Blender in google colab.ipynb
 ![](/readme.assets/32.png)
 
 ### issues：https://github.com/googlecolab/colabtools/issues/2827
+***
+
+### 修复了blender应用程序无法正常解压到谷歌云盘的问题
+
+![](/readme.assets/33.png)
+![](/readme.assets/34.png)
+
 ***
 
 #### 5.Q&A
