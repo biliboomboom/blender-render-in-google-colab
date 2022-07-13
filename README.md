@@ -34,7 +34,7 @@ Render Blender in google colab.ipynb
 ### 先说缺点：
 #### 1.这里的白嫖并不是无穷无尽的，而是看colab的空闲后端gpu情况，具体可查看colab官方文档，要是有能力可以去colab开colab pro，能得到一个更强大的云端训练环境。（一般都能用）
 
-#### 2.blender插件产生的外置缓存无法上传到云进行渲染，例如：flip fluids 的流体缓存。（有能力自信魔改）
+#### 2.blender插件产生的外置缓存无法上传到云进行渲染，例如：flip fluids 的流体缓存。（有能力自行魔改）
 
 * [google colab官方说明文档](https://research.google.com/colaboratory/faq.html)
 
