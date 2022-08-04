@@ -68,7 +68,7 @@ Render Blender in google colab.ipynb
 ### 使用步骤
 
 <details>
-  <summary>👈使用步骤在这里打开噢</summary>
+  <summary style="font-size:1.5rem" >👈使用步骤在这里打开噢</summary>
 
 ##### 1. **打包**blender工程文件。
 ***
@@ -160,7 +160,7 @@ Render Blender in google colab.ipynb
 ## 更新
 <details>
 
-  <summary>👈更新在此处打开噢</summary>
+  <summary style="font-size:1.5rem" >👈更新在此处打开噢</summary>
 
 ### 使用k80后端渲染的方法 ```updata 2022-4-14```
 
