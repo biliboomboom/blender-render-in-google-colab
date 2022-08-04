@@ -15,6 +15,7 @@ Render Blender in google colab.ipynb
 
 ---
 ``` 
+更新：更新了云端英伟达驱动的更新失败的问题（2） 2022-8-4
 更新：更新了云端英伟达驱动的更新失败的问题 2022-8-4
 更新：更新了blender应用程序无法正常解压的问题 2022-7-14
 ⚠更新：更新了无法在t4环境下渲染blender 2022-5-31
@@ -34,23 +35,23 @@ Render Blender in google colab.ipynb
 ### 注：方案需全程在✈的环境下进行！
 
 ### 先说缺点：
-#### 1.这里的白嫖并不是无穷无尽的，而是看colab的空闲后端gpu情况，具体可查看colab官方文档，要是有能力可以去colab开colab pro，能得到一个更强大的云端训练环境。（一般都能用）
+### 1.这里的白嫖并不是无穷无尽的，而是看colab的空闲后端gpu情况，具体可查看colab官方文档，要是有能力可以去colab开colab pro，能得到一个更强大的云端训练环境。（一般都能用）
 
 #### 2.blender插件产生的外置缓存无法上传到云进行渲染，例如：flip fluids 的流体缓存。（有能力自行魔改）
 
 * [google colab官方说明文档](https://research.google.com/colaboratory/faq.html)
 
-#### 介绍
+### 介绍
 简单的方式借用（嫖）google colab 的免费gpu来渲染自己的blender文件！
 **从此解放自己的gpu！**
 
-#### 创库原由
+### 创库原由
 作为blender兴趣爱好者，苦于电脑配置低渲染慢而烦恼，在网上冲浪看到了YouTube上有许多blender云渲染的方法，例如：[Micro Singularity](https://youtu.be/A8FiCPUEv9Q)的教程，本方案就是在此基础上修改优化的。除了这个方法国内也有人在b站等平台发布过教程，也可以选择其他方案，适合自己的方案才是最好的。
 
-#### 方案原理
+### 方案原理
 借用[google colab](https://colab.research.google.com)的免费GPU来在线渲染。
 
-#### colab介绍
+### colab介绍
 什么是 Colab？
 借助 Colaboratory（简称 Colab），您可在浏览器中编写和执行 Python 代码，并且：
 * 无需任何配置
@@ -58,13 +59,17 @@ Render Blender in google colab.ipynb
 * 轻松共享
 它尤其适合机器学习、数据分析和教育目的。 从技术上来说，Colab 是一种托管式Jupyter 笔记本服务。
 
-#### 使用前准备环境
+### 使用前准备环境
 * 1，谷歌云盘
 * 2，浏览器
 * 3，你的打包好的blender工程文件
 * 4，渲染调用脚本
 
-#### 使用步骤
+### 使用步骤
+
+<details>
+  <summary>👈使用步骤在这里打开噢</summary>
+
 ##### 1. **打包**blender工程文件。
 ***
 ![打包工程文件](readme.assets/1.png)
@@ -150,8 +155,12 @@ Render Blender in google colab.ipynb
 注意！！！！！！！！！！！！！！！！！！！！！！！
 渲染完成后需要自行关闭后端gpu，白嫖用户是**不允许**一直挂着后台的，不运行gpu时会检测，**一直无人使用gpu**但是**占用资源**会可能被**封禁**。
 
-***
+</details>
+
 ## 更新
+<details>
+
+  <summary>👈更新在此处打开噢</summary>
 
 ### 使用k80后端渲染的方法 ```updata 2022-4-14```
 
@@ -204,6 +213,17 @@ Render Blender in google colab.ipynb
 
 ***
 
+### 再次修复了```#2.5```驱动更新失败的问题
+完成时的提示如下图
+
+![](/readme.assets/37.png)
+
+*** 
+
+</details>
+
+***
+
 #### 5.Q&A
 
 Q：
@@ -232,3 +252,5 @@ Q:
 支持渲染cycles渲染器，那支持eevee渲染器吗？
 A:
 目前是不支持eevee,只支持cycles。
+
+***
