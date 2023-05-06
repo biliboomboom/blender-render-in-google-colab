@@ -15,6 +15,7 @@ Render Blender in google colab.ipynb
 
 ---
 ``` 
+更新：修复了sudo指令导致的无法渲染 2023-05-06
 更新：继续修复"CUDA cuInit: Unknown CUDA error value"的驱动问题 2022-12-16
 更新：更新了云端英伟达驱动的更新失败的问题（2） 2022-8-4
 更新：更新了云端英伟达驱动的更新失败的问题 2022-8-4
