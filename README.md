@@ -222,6 +222,11 @@ Render Blender in google colab.ipynb
 
 *** 
 
+## 修复了sudo指令导致的渲染问题
+![](/readme.assets/38.png)
+
+***
+
 </details>
 
 ***
